@@ -1,2 +1,2 @@
 # coursera
-a repository of ML and Deep Learning courses with Jupyter Notebook files.
+a repository of Machine Learning Specialization and Deep Learning Specialization courses with Jupyter Notebook files.
